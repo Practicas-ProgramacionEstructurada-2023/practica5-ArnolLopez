@@ -1,0 +1,15 @@
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\bin\Debug\net7.0\practica5-ArnolLopez.exe
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\bin\Debug\net7.0\practica5-ArnolLopez.deps.json
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\bin\Debug\net7.0\practica5-ArnolLopez.runtimeconfig.json
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\bin\Debug\net7.0\practica5-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\bin\Debug\net7.0\practica5-ArnolLopez.pdb
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.csproj.AssemblyReference.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.AssemblyInfoInputs.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.AssemblyInfo.cs
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.csproj.CoreCompileInputs.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\refint\practica5-ArnolLopez.dll
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.pdb
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\practica5-ArnolLopez.genruntimeconfig.cache
+C:\Users\Dark\Documents\UNI\LOG PRO\practica5-ArnolLopez\obj\Debug\net7.0\ref\practica5-ArnolLopez.dll
